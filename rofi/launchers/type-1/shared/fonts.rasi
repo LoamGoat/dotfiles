@@ -1,0 +1,13 @@
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ * 
+ * Fonts
+ *
+ **/
+
+* {
+    font: "CaskaydiaMono Nerd Font 9";
+    /*font: "MesloLGS NF 9";*/
+}
